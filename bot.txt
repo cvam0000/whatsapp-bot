@@ -13,32 +13,10 @@
 
 	const jokeList = [
 		`
-		Ek ladke ka land bahut chota aur patla tha..
-
-Aur wo apni gf ko apna dikhana nahi chahta tha..
-
-Ladka karne ke liye  gf ko andhere kamre me le gya..
-
-Aur apna land ladki ke hath me dediya..
-
-Ladki : Jannu mai chigarte nahi piti..`,
+		write a joke here`,
 
 		`
-		Santa ek vaishya ke sath hotal me karne gya..
-
-Jab santa vaishya ki ghodi bana ke kar raha tha toh Santa bola
-
-“Mai ek sawal pichu”
-
-Ladki : Ha pucho?
-
-Santa : Karne me adami aur aurat dono ko maza aata hai..
-
-Par Paise sirf adami ko dena padta hai..
-
-Ladki : Pagal tujhe pata nahi paise sirf outgoing ke dene padte hai..
-
-Incoming ke nahi…`
+		write another joke`
 	]
 
 
